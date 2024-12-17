@@ -1,1 +1,1 @@
-Connect 4 project I al building for practice
+Connect 4 project I'm building for practice
